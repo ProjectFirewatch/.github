@@ -10,7 +10,7 @@
 
 ---
 
-![Guide](https://sophia.wtf/cdn/contribute.PNG)
+![Contribute](https://raw.githubusercontent.com/ProjectFirewatch/ProjectFirewatch/main/cdn/contribute.png)
 
 ---
 
