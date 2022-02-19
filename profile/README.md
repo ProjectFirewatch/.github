@@ -14,7 +14,7 @@
 
 ---
 
-### [Contact Email](mailto:contact@projectfirewatch.com)
+### [Contact](mailto:contact@projectfirewatch.com)
 
 ---
 
