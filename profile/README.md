@@ -16,8 +16,8 @@
 
 ### [Contact](mailto:contact@projectfirewatch.com)
 
+### [Blog](https://blog.projectfirewatch.com/2022/02/19/new-people/)
 ---
-
 
 *projectfirewatch.com is a community website and is not affiliated with Firewatch or Campo Santo.*
 
