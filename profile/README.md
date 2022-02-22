@@ -10,7 +10,7 @@
 
 ---
 
-![Contribute](https://raw.githubusercontent.com/ProjectFirewatch/ProjectFirewatch/main/cdn/contribute.png)
+![Contribute](https://projectfirewatch.com/cdn/contribute.png)
 
 ---
 
