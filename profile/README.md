@@ -1,8 +1,9 @@
+
+<img src="https://projectfirewatch.com/images/logo.svg" alt="Firewatch Logo" height=128px align="right">
+
 # Project Firewatch
 
----
-
-## Project Firewatch The Opensource Deep Dive Into The Game Firewatch.
+## The Opensource Deep Dive Into The Game Firewatch.
 
 ---
 
@@ -10,15 +11,4 @@
 
 ---
 
-![Contribute](https://projectfirewatch.com/cdn/contribute.png)
-
----
-
-### [Our Email](mailto:contact@projectfirewatch.com)
-
-### [Blog](https://blog.projectfirewatch.com/)
----
-
-*projectfirewatch.com is a community website and is not affiliated with Firewatch or Campo Santo.*
-
-*Firewatch and the Firewatch logos are trademarks of Campo Santo. All other trademarks are property of their respective owners.*
+[![Contribute](https://projectfirewatch.com/cdn/contribute.png)](https://github.com/ProjectFirewatch/ProjectFirewatch/fork)
